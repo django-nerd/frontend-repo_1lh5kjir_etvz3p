@@ -67,7 +67,7 @@ export default function Sections() {
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div>
               <h2 className="text-3xl sm:text-4xl font-semibold tracking-tight">About & Vision</h2>
-              <p className="mt-4 text-gray-600">Hillsiani Research Hub at Markaz Knowledge City blends technology with multicultural education to empower learners. We focus on rigorous research, practical tech skills, and civic leadership to drive impact across communities and industries.</p>
+              <p className="mt-4 text-gray-600">Hillsiani Skill University blends technology with multicultural education to empower learners. We focus on real-world skills, practical projects, and civic leadership to drive impact across communities and industries.</p>
               <ul className="mt-6 grid sm:grid-cols-3 gap-4">
                 <li className="rounded-lg border border-gray-200 p-4">
                   <div className="flex items-center gap-2 text-gray-800"><Cpu size={18} /><span className="font-medium">Tech Skills</span></div>
@@ -294,7 +294,7 @@ export default function Sections() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <h2 className="text-3xl sm:text-4xl font-semibold tracking-tight">Admissions & Apply</h2>
           <div className="mt-8 grid lg:grid-cols-3 gap-6">
-            <Step title="1. Choose Track" desc="Select your program and research pathway." />
+            <Step title="1. Choose Track" desc="Select your program and skill pathway." />
             <Step title="2. Prepare Materials" desc="Academic records, statement of purpose, and references." />
             <Step title="3. Submit & Interview" desc="Upload application, schedule interview, and receive decision." />
           </div>
@@ -308,7 +308,7 @@ export default function Sections() {
           <div className="grid md:grid-cols-2 gap-8">
             <div>
               <h2 className="text-3xl sm:text-4xl font-semibold tracking-tight">Contact & Support</h2>
-              <p className="mt-2 text-gray-600">Questions about programs, research, or admissions? We’re here to help.</p>
+              <p className="mt-2 text-gray-600">Questions about programs or admissions? We’re here to help.</p>
               <div className="mt-6 space-y-3 text-sm text-gray-700">
                 <div className="flex items-center gap-2"><Mail size={16} className="text-indigo-600"/><span>admissions@hillsiani.edu</span></div>
                 <div className="flex items-center gap-2"><Phone size={16} className="text-indigo-600"/><span>+91 00000 00000</span></div>
