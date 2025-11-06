@@ -34,9 +34,9 @@ export default function Sections() {
       'Project: eVTOL Operations Sim',
       'Workshop: Aviation Data Graphs'
     ] },
-    { id: 'global', title: 'Global Collaborations', icon: Globe, color: 'violet', tags: ['Global','Exchange','Research'], blurb: 'Exchange, joint research, and international mentorship opportunities.', details: [
+    { id: 'global', title: 'Global Collaborations', icon: Globe, color: 'violet', tags: ['Global','Exchange','Research'], blurb: 'Exchange, joint projects, and international mentorship opportunities.', details: [
       'Residency: Partner University Term',
-      'Co-authorship: Cross-border Labs',
+      'Co-build: Cross-border Innovation Labs',
       'Showcase: Global Demo Day'
     ] },
   ], []);
@@ -67,7 +67,7 @@ export default function Sections() {
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div>
               <h2 className="text-3xl sm:text-4xl font-semibold tracking-tight">About & Vision</h2>
-              <p className="mt-4 text-gray-600">Hillsiani Skill University blends technology with multicultural education to empower learners. We focus on real-world skills, practical projects, and civic leadership to drive impact across communities and industries.</p>
+              <p className="mt-4 text-gray-600">Hillsinai University blends technology with multicultural education to empower learners. We focus on real-world skills, practical projects, and civic leadership to drive impact across communities and industries.</p>
               <ul className="mt-6 grid sm:grid-cols-3 gap-4">
                 <li className="rounded-lg border border-gray-200 p-4">
                   <div className="flex items-center gap-2 text-gray-800"><Cpu size={18} /><span className="font-medium">Tech Skills</span></div>
@@ -310,7 +310,7 @@ export default function Sections() {
               <h2 className="text-3xl sm:text-4xl font-semibold tracking-tight">Contact & Support</h2>
               <p className="mt-2 text-gray-600">Questions about programs or admissions? We’re here to help.</p>
               <div className="mt-6 space-y-3 text-sm text-gray-700">
-                <div className="flex items-center gap-2"><Mail size={16} className="text-indigo-600"/><span>admissions@hillsiani.edu</span></div>
+                <div className="flex items-center gap-2"><Mail size={16} className="text-indigo-600"/><span>admissions@hillsinai.edu</span></div>
                 <div className="flex items-center gap-2"><Phone size={16} className="text-indigo-600"/><span>+91 00000 00000</span></div>
                 <div className="flex items-center gap-2"><LifeBuoy size={16} className="text-indigo-600"/><span>Support Center: 9am–6pm IST</span></div>
               </div>

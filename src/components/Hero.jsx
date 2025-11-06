@@ -71,7 +71,7 @@ export default function Hero() {
               transition={{ duration: 0.6, ease: 'easeOut' }}
               className="text-3xl sm:text-5xl md:text-6xl font-semibold tracking-tight text-white"
             >
-              <ScrambleText text="Hillsiani Skill University" className="cursor-pointer" />
+              <ScrambleText text="Hillsinai University" className="cursor-pointer" />
             </motion.h1>
             <motion.p
               initial={{ opacity: 0, y: 10 }}
